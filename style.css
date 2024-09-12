@@ -47,6 +47,7 @@ body {
 
 .interval-btn, #start-stop-btn, #reset-btn,
 #settings-btn {
+    background-color:transparent;
   border-radius: 50px;
   border: 1px solid black;
   color: black;
